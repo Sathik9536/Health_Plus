@@ -64,8 +64,11 @@ The system also enables hospital staff to manage appointments,Patient records, a
 
 ## Screenshots
 ![FrontPage](https://github.com/user-attachments/assets/ad4100b9-a039-4733-aa7e-7a3063ce7b34)
+
 ![Login](https://github.com/user-attachments/assets/5be8e376-b0d5-40f0-9021-2db0c8394126)
+
 ![Appointment](https://github.com/user-attachments/assets/da2c0d7b-778e-4cf5-9b03-868e2836719a)
+
 ![about](https://github.com/user-attachments/assets/6d632142-3233-446d-8bbb-649db6c540f2)
 
 
@@ -78,6 +81,6 @@ The system also enables hospital staff to manage appointments,Patient records, a
 
 For queries :
 - Email: ahamedsathikclge@gmail.com
-- GitHub: [Ahamed Sathik](https://github.com/Venkat121002)
+- GitHub: [Ahamed Sathik] (https://github.com/Sathik9536)
 
 ---
