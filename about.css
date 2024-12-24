@@ -1,0 +1,123 @@
+/* General Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f5f5f5;
+}
+
+/* Container for center alignment */
+.container {
+    max-width: 1000px;
+    margin: auto;
+    padding: 20px;
+}
+
+/* Header Styling */
+header {
+    background-color: #3a86ff;
+    padding: 20px 0;
+    color: #fff;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+header h1 {
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 15px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px 10px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+nav ul li a:hover,
+nav ul li a.active {
+    background-color: #0073e6;
+}
+
+/* About Us Section Styling */
+#about-us, #team {
+    background-color: #ffffff;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px 0;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+}
+
+#about-us:hover, #team:hover {
+    transform: translateY(-5px);
+}
+
+#about-us h2, #team h2 {
+    color: #3a86ff;
+    font-size: 1.5em;
+    margin-bottom: 10px;
+    border-left: 5px solid #0073e6;
+    padding-left: 10px;
+}
+
+#about-us p, #about-us ul {
+    margin-bottom: 15px;
+    line-height: 1.8;
+}
+
+#about-us ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+#about-us ul li {
+    margin-bottom: 10px;
+}
+
+#about-us ul li strong {
+    color: #3a86ff;
+}
+
+/* Button Style for Links */
+.button {
+    display: inline-block;
+    color: #fff;
+    background-color: #3a86ff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+}
+
+.button:hover {
+    background-color: #005bb5;
+}
+
+/* Footer Styling */
+footer {
+    text-align: center;
+    padding: 15px;
+    background-color: #f4f4f4;
+    font-size: 0.9em;
+    color: #777;
+    border-top: 1px solid #ddd;
+}
