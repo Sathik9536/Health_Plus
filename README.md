@@ -81,6 +81,6 @@ The system also enables hospital staff to manage appointments,Patient records, a
 
 For queries :
 - Email: ahamedsathikclge@gmail.com
-- GitHub: [Ahamed Sathik] (https://github.com/Sathik9536)
+- GitHub: [Ahamed Sathik](https://github.com/Sathik9536)
 
 ---
